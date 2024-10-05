@@ -14,7 +14,7 @@ Our goal is to make cutting-edge AI technology accessible to innovators and crea
 
 ## Sponsored Hackathons
 
-- **Bits N' Bills**: An AI-focused hackathon centered on solving problems in the financial services industry and consumer finances. [Learn more](./past-hackathons/bits-n-bills/)
+- **Bits N' Bills**: An AI-focused hackathon centered on solving problems in the financial services industry and consumer finances. [Learn more](https://docs.google.com/presentation/d/1mwXcp2x_MzRmWU7G4qQ29731Uqco4y8t9_AwgrGJFng/edit#slide=id.g2f9a6a343dd_0_104)
 
 ### Upcoming Hackathons
 
